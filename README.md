@@ -1,6 +1,6 @@
 ![telecommunications worker](https://github.com/tabburn/telecommunications-customers/blob/main/resources/telecommunications_hero.jpg)
 
-# Predicting Telecommunications Customers' Usage Using kNN
+# Predicting Customers' Service Usage Using kNN
 This dataset reflects a telecommunications provider that has segmented its customer base by service usage patterns, categorizing the customers into four different usage groups. Using this data, we'll build a model that predicts the usage of a new customer by using a K-Nearest Neighbor model. The data for this analysis can be found [here](https://github.com/tabburn/telecommunications-customers/blob/main/resources/teleCust1000t.csv).
 
 ## Table of Contents
